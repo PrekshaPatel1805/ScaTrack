@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/business.jpg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/business.jpg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/edittextstyle.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/edittextstyle.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/otpset.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/otpset.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/total_shared.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/total_shared.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/gplus.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/gplus.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/camera.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/user.jpeg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/user.jpeg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/loc.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/loc.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/mybutton.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/mybutton.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/star.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/star.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/share.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/bg.jpg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/total_visited.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/total_visited.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/border1.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/border1.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/applogo.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/applogo.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/user1.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/user1.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/stars.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/stars.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/images.jpeg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/images.jpeg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/email.jpg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/email.jpg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/boicon.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/boicon.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/white_grey_border_bottom.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/white_grey_border_bottom.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/emailverif.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/emailverif.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/pass.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/pass.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/profile.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc444.jpg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/abc444.jpg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc123.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/abc123.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/dropdown.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/dropdown.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/user2.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/user2.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/cs.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/cs.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/logo_app.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/logo_app.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/a.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/a.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/mybutton1.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/mybutton1.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/resetpassword.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/resetpassword.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/edit_login.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/edit_login.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/call.jpg",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/call.jpg"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/fb_logo.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/fb_logo.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/twiter.png",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/drawable/twiter.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_light.xml"
+    }
+]

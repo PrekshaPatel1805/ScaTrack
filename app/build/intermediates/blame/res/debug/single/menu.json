@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/mainlog.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/mainlog.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/bottom_navigation_menu.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/notifications.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/notifications.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/res/menu/main.xml"
+    }
+]

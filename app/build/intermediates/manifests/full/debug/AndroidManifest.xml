@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.l.scatrack"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- <service android:name=".GeofenceTrasitionService" /> -->
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCINakwUTT7yUoUunRw1KA5cW7iePgI4d8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.example.l.scatrack.LogoSplash"
+            android:theme="@style/AppTheme." >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.l.scatrack.Choose4"
+            android:label="Smart Card" />
+        <activity android:name="com.example.l.scatrack.ClientIntroSlider" />
+        <activity android:name="com.example.l.scatrack.BoIntroSlider" />
+        <activity
+            android:name="com.example.l.scatrack.Login_Client"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.Login_Bo"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.HomePage"
+            android:label="Smart Card" />
+        <activity android:name="com.example.l.scatrack.ComingSoon" />
+        <activity
+            android:name="com.example.l.scatrack.Registration"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.MainScreenClient"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.BusinessOwnerListview"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.BusinessInfo"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.ClientRegistration"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.Take_email"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.Otpverification"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.NewPassword"
+            android:label="Smart Card" />
+        <!-- <activity android:name=".MapActivity" /> -->
+        <activity
+            android:name="com.example.l.scatrack.sharedcontactlist"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.PrivacyPolicyActivity"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.AboutUsActivity"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.example.l.scatrack.CameraActivity"
+            android:label="Smart Card" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.l.scatrack.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

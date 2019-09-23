@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_camera.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_send.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_manage.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_share.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_gallery.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/res/merged/debug/drawable-mdpi-v21/ic_menu_slideshow.xml",
+        "source": "/home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/generated/res/pngs/debug/drawable-mdpi-v21/ic_menu_slideshow.xml"
+    }
+]

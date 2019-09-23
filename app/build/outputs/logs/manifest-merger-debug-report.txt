@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:11:22-62
+supports-screens
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:12:5-16:39
+	android:largeScreens
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:16:9-36
+	android:normalScreens
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:15:9-37
+	android:anyDensity
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:13:9-34
+application
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:18:5-78:19
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.8.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:1.1.9] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.github.ittianyu/BottomNavigationViewEx/1.1.9/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:23:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:26:9-28:71
+	android:value
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:28:13-68
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:27:13-58
+meta-data#com.google.android.gms.version
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:29:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:30:13-58
+activity#com.example.l.scatrack.LogoSplash
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:theme
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:34:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.l.scatrack.Choose4
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:42:9-43:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:43:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:42:19-42
+activity#com.example.l.scatrack.ClientIntroSlider
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:44:9-55
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:44:19-52
+activity#com.example.l.scatrack.BoIntroSlider
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:45:9-51
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:45:19-48
+activity#com.example.l.scatrack.Login_Client
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:46:9-47:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:47:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:46:19-47
+activity#com.example.l.scatrack.Login_Bo
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:48:9-49:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:49:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:48:19-43
+activity#com.example.l.scatrack.HomePage
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:50:9-51:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:51:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:50:19-43
+activity#com.example.l.scatrack.ComingSoon
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:52:9-48
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:52:19-45
+activity#com.example.l.scatrack.Registration
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:53:9-54:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:54:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:53:19-47
+activity#com.example.l.scatrack.MainScreenClient
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:55:9-56:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:56:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:55:19-51
+activity#com.example.l.scatrack.BusinessOwnerListview
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:57:9-58:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:58:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:57:19-56
+activity#com.example.l.scatrack.BusinessInfo
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:59:9-60:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:60:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:59:19-47
+activity#com.example.l.scatrack.ClientRegistration
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:61:9-62:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:62:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:61:19-53
+activity#com.example.l.scatrack.Take_email
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:63:9-64:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:64:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:63:19-45
+activity#com.example.l.scatrack.Otpverification
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:65:9-66:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:66:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:65:19-50
+activity#com.example.l.scatrack.NewPassword
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:67:9-68:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:68:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:67:19-46
+activity#com.example.l.scatrack.sharedcontactlist
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:70:9-71:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:71:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:70:19-52
+activity#com.example.l.scatrack.PrivacyPolicyActivity
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:72:9-73:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:73:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:72:19-56
+activity#com.example.l.scatrack.AboutUsActivity
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:74:9-75:41
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:75:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:74:19-50
+activity#com.example.l.scatrack.CameraActivity
+ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:76:9-77:51
+	android:label
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:77:13-39
+	android:name
+		ADDED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml:76:19-49
+uses-sdk
+INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:1.1.9] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.github.ittianyu/BottomNavigationViewEx/1.1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sonali/AndroidStudioProjects/ScaTrack_last/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:26:9-47
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/sonali/AndroidStudioProjects/ScaTrack_last/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:9:13-77

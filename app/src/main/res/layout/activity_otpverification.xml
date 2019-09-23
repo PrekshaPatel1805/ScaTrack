@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/pin_content_layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.l.scatrack.Otpverification"
+    android:padding="@dimen/pin_content_layout_padding" >
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/otpll1"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        >
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/emailverif"
+            android:background="#ffffff"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Verification Code"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:textColor="@color/logocolor"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please type the verification code sent to your mail-id"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textColor="@color/logocolor"/>
+
+    </LinearLayout>
+    <LinearLayout android:id="@+id/pin_layout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp">
+
+        <EditText android:id="@+id/pin_first_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/pin_content_desc"
+            style="@style/pin_edittext_style"
+            android:background="@drawable/otpset"/>
+
+        <EditText android:id="@+id/pin_second_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/pin_content_desc"
+            style="@style/pin_edittext_style"
+            android:background="@drawable/otpset"/>
+
+        <EditText android:id="@+id/pin_third_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/pin_content_desc"
+            style="@style/pin_edittext_style"
+            android:background="@drawable/otpset"/>
+
+        <EditText android:id="@+id/pin_forth_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/pin_content_desc"
+            style="@style/pin_edittext_style"
+            android:background="@drawable/otpset"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp">
+        <Button
+            android:id="@+id/submit"
+            android:layout_marginTop="5dp"
+            android:text="submit"
+            android:layout_gravity="center"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:background="@drawable/mybutton"
+            />
+
+
+    </LinearLayout>
+
+    <!--<EditText android:id="@+id/pin_hidden_edittext"-->
+    <!--android:layout_width="1dp"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:gravity="center_horizontal"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:background="@null"-->
+    <!--android:cursorVisible="false"-->
+    <!--android:password="true"-->
+    <!--android:maxLength="5"-->
+    <!--android:textColor="#00000000"-->
+    <!--android:contentDescription="@string/pin_content_desc" />-->
+</LinearLayout>
